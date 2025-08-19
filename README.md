@@ -21,3 +21,10 @@ This project is a **simple Todo API** built with **Node.js** and **Express**, st
 ```bash
 git clone <repository-url>
 cd <project-folder>
+
+2. Install dependencies:
+
+```bash
+npm install express
+
+3. Create a db.json file with an empty array:
